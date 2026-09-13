@@ -13,10 +13,6 @@
     <lastmod>2026-09-11</lastmod>
   </url>
   <url>
-    <loc>https://nncf123nncf-oss.github.io/ayana-site-preview/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
     <loc>https://nncf123nncf-oss.github.io/char-counter/</loc>
     <lastmod>2026-09-11</lastmod>
   </url>
@@ -151,5 +147,13 @@
   <url>
     <loc>https://nncf123nncf-oss.github.io/zenkaku-hankaku-converter/</loc>
     <lastmod>2026-09-11</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/eigyoubi-counter/</loc>
+    <lastmod>2026-09-14</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/iisugi-memo/</loc>
+    <lastmod>2026-09-14</lastmod>
   </url>
 </urlset>
