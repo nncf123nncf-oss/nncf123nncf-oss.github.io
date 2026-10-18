@@ -2,158 +2,294 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nncf123nncf-oss.github.io/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/100days/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/address-honorific-checker/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/anniversary-card/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/before-after-maker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/before-after-slider/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/booking-board/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/campaign-kit/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/cancel-message-maker/</loc>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/char-counter/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/check-later/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/color-code-converter/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/comment-reply-drafter/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/countdown-timer/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/date-calculator/</loc>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/deadline-countdown-board/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/delivery-checklist/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/duplicate-line-remover/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/emoji-picker/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/estimate-check/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/faq-reply-library/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/font-mihoncho/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/holiday-notice-image-maker/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/image-resize-tool/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/lottery-picker-tool/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/menu-sheet-maker/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/payment-tracker/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/price-tag-maker/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/profit-margin-calculator/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/reservation-guard/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/sales-fee-calculator/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/schedule-mail-maker/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/shift-time-summary/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/sleep-cycle-calculator/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/snippet-book/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/sns-announce-image-maker/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/sns-post-drafter/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/tax-calculator/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/thread-splitter/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/todo-priority-app/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/unit-price-comparator/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/withholding-tax-calculator/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/world-time-converter/</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://nncf123nncf-oss.github.io/zenkaku-hankaku-converter/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/eigyoubi-counter/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/emoji-picker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/estimate-check/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/faq-reply-library/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/font-mihoncho/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/food-label-maker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/hashtag-organizer/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/holiday-notice-image-maker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/ig-highlight-icons/</loc>
+    <lastmod>2026-10-19</lastmod>
   </url>
   <url>
     <loc>https://nncf123nncf-oss.github.io/iisugi-memo/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/image-resize-tool/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/insta-split/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/koko-desu-marker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/line-break-formatter/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/lottery-picker-tool/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/menu-sheet-maker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/parcel-size-checker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/pattern-fill-x/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/payment-tracker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/photo-location-remover/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/photo-pop-card/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/post-checker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/post-pattern-x/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/preorder-prep-sheet/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/price-tag-maker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/profit-margin-calculator/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/promise-radar/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/qr-shop-card/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/real-hourly-rate/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/recipe-cost-linker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/reply-drafter-x/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/reservation-guard/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/sales-fee-calculator/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/schedule-mail-maker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/screenshot-framer/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/shift-time-summary/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/shuryosho-maker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/sleep-cycle-calculator/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/snippet-book/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/sns-announce-image-maker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/sns-post-drafter/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/stamp-card-maker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/subscription-finder/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/tax-calculator/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/thread-splitter/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/todo-priority-app/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/unit-price-comparator/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/unpaid-invoice-checker/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/uriage-mokuhyou-gyakusan/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/wareki-seireki-converter/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/withholding-tax-calculator/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/work-photo-ledger/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/world-time-converter/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/x-post-archive-search/</loc>
+    <lastmod>2026-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://nncf123nncf-oss.github.io/zenkaku-hankaku-converter/</loc>
+    <lastmod>2026-10-19</lastmod>
   </url>
 </urlset>

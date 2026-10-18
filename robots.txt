@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nncf123nncf-oss.github.io/sitemap.xml
